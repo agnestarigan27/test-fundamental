@@ -36,3 +36,14 @@ Maksimal 4 jam.
 - Atau kirim file dalam bentuk .zip.
 
 Semangat! 🚀
+
+
+
+## Penjelasan web yang sudah di saya buat
+website yang saya buat sudah sesuai dengan fitur yang diinginkan dan dengan ketentuan yang telah di tetapkan. Saya menggunakan HTML, CSS dan JavaScript untuk pengembangannya, untuk fitur dark mode, validasi yang kompleks juga sudah berjalan sesuai dengan permintaan. 
+
+## Data dari formulir kontak
+Data yang di input pada formulir konta dapat di lihat dan di akses di google spreadsheet karena data akan otomatis tersimpan ke dalam google spreadsheet, berikut adalah link nya https://docs.google.com/spreadsheets/d/1qmOVDli3Z7s5xgb3vR1BbgRmspVbo_6DCaIuppk3H14/edit?usp=sharing
+
+## File Website dalam bentuk zip
+https://drive.google.com/file/d/1hkcfhBrRf4s8yUFmhs-T4g69Uh6BpVrm/view?usp=sharing
